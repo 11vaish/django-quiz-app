@@ -2,19 +2,7 @@
 It is django based quiz app for multiple choice questions.
 
 
-### Snaps of project 
-  Login:
-  ![alt text](https://github.com/sswapnil2/django-quiz-app/blob/master/screenshots/login.png "login page")
-  <br>
-  
-  quiz:
-  ![alt text](https://github.com/sswapnil2/django-quiz-app/blob/master/screenshots/quiz_page.png  "quiz page")
-  <br>
-  
-  results:
-  ![alt text](https://github.com/sswapnil2/django-quiz-app/blob/master/screenshots/results.png "results")
-  <br>
-  
+
 # Instructions 
 
 1) ### Installations
@@ -43,7 +31,4 @@ It is django based quiz app for multiple choice questions.
   To run at localhost. It will run on port 8000 by default.<br>
   `python manage.py runserver` 
  
-5) ### Reference
-  I have refernced this quizz app from [tomwalker's](https://github.com/tomwalker) original repo. 
-  Reference link to the quiz app repo is [here](https://github.com/tomwalker/django_quiz)
-  
+ 
